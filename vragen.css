@@ -1,0 +1,38 @@
+img {
+  padding-left: 200px;
+}
+body {
+    background-color: black;
+}
+h1 {
+  color: #a0522d;
+  text-align: center;
+}
+p {
+ color: black;
+}
+h2 {
+  color: orange;
+  text-align: center;
+}
+a {
+  color: red;
+}
+table {
+  border: 3px solid red;
+  margin-left: 32%;
+}
+th {
+  border: 3px solid red;
+  color: red;
+}
+.vraag {
+
+}
+.antwoord {
+  color: black;
+  background-color: black;
+}
+.antwoord:hover {
+  color: orange;
+}

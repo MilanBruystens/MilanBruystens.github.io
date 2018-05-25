@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://orig00.deviantart.net/b00e/f/2016/080/6/9/asus_rog_gif_by_xxaries1970xx-d9vx2p4.gif");
+    background-size: 100%;
+}
+a {
+  color: red;
+}
+p {
+  color: red;
+  margin-left: 70%;
+  margin-top: 1%;
+}
+table {
+  border: 3px solid red;
+  margin-top: 100px;
+  margin-left: 40%;
+}
+th {
+  border: 3px solid red;
+  color: red;
+}
+#Tabel1 {
+   margin-left: 0%;
+   margin-top: -7%;
+   margin-right: 75%;
+}
+#Tabel2 {
+  border: 3px solid red;
+  margin-top: 100px;
+  margin-left: 40%;
+}
+h1 {
+  color: red;
+  margin-left: 70%;
+  margin-top: -40%;
+}
+#website {
+  margin-left: 70%;
+  margin-top: -40%;
+  color: white;
+}
